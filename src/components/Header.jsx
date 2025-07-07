@@ -1,4 +1,4 @@
-import logo from '../assets/Group 12.png'; // Adjust the path as necessary
+import logo from '../assets/Group12.png'; // Adjust the path as necessary
 
 const Header = () => {
   return (

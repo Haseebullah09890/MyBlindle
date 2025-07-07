@@ -2,10 +2,10 @@ import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-import body1 from '../assets/Body (1).png';
+import body1 from '../assets/Body(1).png';
 import body2 from '../assets/body2.png';
-import Playstore from '../assets/Play store.png';
-import Appstore from '../assets/App store.png';
+import Playstore from '../assets/Playstore.png';
+import Appstore from '../assets/Appstore.png';
 
 const Footer = () => {
   useEffect(() => {
