@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import aboutimg from '../assets/Group3.png'; // Make sure the path is correct
+import aboutimg from '../assets/group3.png'; // Make sure the path is correct
 
 const Aboutus = () => {
   useEffect(() => {

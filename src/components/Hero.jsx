@@ -1,5 +1,5 @@
 import React from 'react';
-import Herosimg from '../assets/Group1.png'; // Make sure the image path and name are correct
+import Herosimg from '../assets/group1.png'; // Make sure the image path and name are correct
 import card from '../assets/card.png'; // Adjust the path as necessary
 import card1 from '../assets/card1.png'; // Adjust the path as necessary
 
