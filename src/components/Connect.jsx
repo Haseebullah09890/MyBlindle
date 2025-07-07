@@ -2,8 +2,8 @@ import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-import iphone1 from '../assets/iphone 14 Pro (1).png';
-import iphone2 from '../assets/iphone 14 Pro (2).png';
+import iphone1 from '../assets/iphone(1).png';
+import iphone2 from '../assets/iphone(2).png';
 
 const Connect = () => {
   useEffect(() => {
